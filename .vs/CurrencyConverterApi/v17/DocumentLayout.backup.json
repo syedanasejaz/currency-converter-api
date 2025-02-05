@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|solutionrelative:currencyconverterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BD0941-ECE3-457F-8D88-770E4495C22E}|CurrencyServiceTests\\CurrencyServiceTests.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyservicetests\\currencytestsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BD0941-ECE3-457F-8D88-770E4495C22E}|CurrencyServiceTests\\CurrencyServiceTests.csproj|solutionrelative:currencyservicetests\\currencytestsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BD0941-ECE3-457F-8D88-770E4495C22E}|CurrencyServiceTests\\CurrencyServiceTests.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyservicetests\\currencyservicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2BD0941-ECE3-457F-8D88-770E4495C22E}|CurrencyServiceTests\\CurrencyServiceTests.csproj|solutionrelative:currencyservicetests\\currencyservicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyconverterapi\\services\\implementation\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|solutionrelative:currencyconverterapi\\services\\implementation\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyconverterapi\\dtos\\historicalrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|solutionrelative:currencyconverterapi\\dtos\\historicalrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BD0941-ECE3-457F-8D88-770E4495C22E}|CurrencyServiceTests\\CurrencyServiceTests.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BD0941-ECE3-457F-8D88-770E4495C22E}|CurrencyServiceTests\\CurrencyServiceTests.csproj|solutionrelative:currencyservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyconverterapi\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|solutionrelative:currencyconverterapi\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyconverterapi\\dtos\\historicalratesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|solutionrelative:currencyconverterapi\\dtos\\historicalratesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|e:\\anas\\projects\\bamboocard\\code\\currencyconverterapi\\currencyconverterapi\\dtos\\frankfurterrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669E139B-2517-470B-8F5C-6DB26550D82F}|CurrencyConverterApi\\CurrencyConverterApi.csproj|solutionrelative:currencyconverterapi\\dtos\\frankfurterrates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurrencyServiceTests",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyServiceTests\\CurrencyServiceTests.csproj",
+              "RelativeDocumentMoniker": "CurrencyServiceTests\\CurrencyServiceTests.csproj",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyServiceTests\\CurrencyServiceTests.csproj",
+              "RelativeToolTip": "CurrencyServiceTests\\CurrencyServiceTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T21:03:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyTestsService.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyServiceTests\\CurrencyTestsService.cs",
+              "RelativeDocumentMoniker": "CurrencyServiceTests\\CurrencyTestsService.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyServiceTests\\CurrencyTestsService.cs",
+              "RelativeToolTip": "CurrencyServiceTests\\CurrencyTestsService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:01:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CurrencyServiceTests\\UnitTest1.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "CurrencyServiceTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:00:45.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoricalRatesResponse.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\DTOs\\HistoricalRatesResponse.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterApi\\DTOs\\HistoricalRatesResponse.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\DTOs\\HistoricalRatesResponse.cs",
+              "RelativeToolTip": "CurrencyConverterApi\\DTOs\\HistoricalRatesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:43:30.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterApi\\Program.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\Program.cs",
+              "RelativeToolTip": "CurrencyConverterApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:36:19.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterApi\\Controllers\\CurrencyController.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "CurrencyConverterApi\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:35:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoricalRate.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\DTOs\\HistoricalRate.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterApi\\DTOs\\HistoricalRate.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\DTOs\\HistoricalRate.cs",
+              "RelativeToolTip": "CurrencyConverterApi\\DTOs\\HistoricalRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:34:18.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\Services\\Implementation\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterApi\\Services\\Implementation\\CurrencyService.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\Services\\Implementation\\CurrencyService.cs",
+              "RelativeToolTip": "CurrencyConverterApi\\Services\\Implementation\\CurrencyService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:32:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrankfurterRates.cs",
+              "DocumentMoniker": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\DTOs\\FrankfurterRates.cs",
+              "RelativeDocumentMoniker": "CurrencyConverterApi\\DTOs\\FrankfurterRates.cs",
+              "ToolTip": "E:\\Anas\\Projects\\BambooCard\\Code\\CurrencyConverterApi\\CurrencyConverterApi\\DTOs\\FrankfurterRates.cs",
+              "RelativeToolTip": "CurrencyConverterApi\\DTOs\\FrankfurterRates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:34:01.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
